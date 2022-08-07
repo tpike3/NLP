@@ -1,0 +1,9 @@
+env
+test*
+*.png
+
+__pycache__/
+
+facebook_bart-large-cnn/
+facebook_bart-large-mnli/
+sentence-transformers_paraphrase-MiniLM-L6-v2/
