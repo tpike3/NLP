@@ -15,5 +15,5 @@ sentence-transformers
 keyphrase-vectorizers
 umap-learn
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
-cluestar @ git+pip install "cluestar @ git+https://github.com/koaning/cluestar.git"
+cluestar @ pip install "git+https://github.com/koaning/cluestar.git"
 transformers
